@@ -11,7 +11,6 @@ class GuessingGame {
     }
 
     guess() {
-        console.log(this.result);
         return this.result;
     }
 
